@@ -18,4 +18,4 @@ function sendMail(to,sub,msg){
 });
 console.log("Email Sent Successfully");
 }
-sendMail("neerajuiet2023@gmail.com","This is subject","this is the the test mail")
+sendMail("neerajuiet2023@gmail.com","This is subject 2","I am fine")
